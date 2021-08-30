@@ -9,8 +9,7 @@ def recurse(a, b):
 def product(a, b):
     if a > b:
         a, b = b, a
-    if a == 0:
-        return 0
+    if a == 0: return 0
     return recurse(a, b)
 
 if __name__ == "__main__":
