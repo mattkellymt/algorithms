@@ -17,4 +17,3 @@ int main()
     }
     std::cout << "Correct: " << (valid ? "True" : "False") << std::endl;
 }
-    
