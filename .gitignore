@@ -6,3 +6,5 @@ x64
 .vs 
 *.sln
 *.vcxproj*
+# python folders
+__pycache__
