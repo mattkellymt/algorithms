@@ -1,0 +1,8 @@
+# visual studio folders
+Debug
+Release
+x64
+# visual studio files
+.vs 
+*.sln
+*.vcxproj*
