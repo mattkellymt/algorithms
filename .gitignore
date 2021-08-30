@@ -9,4 +9,6 @@ x64
 # python folders
 __pycache__
 # compiled c++
-a.out
+main
+# makefiles
+makefile
