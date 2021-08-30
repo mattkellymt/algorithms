@@ -14,7 +14,7 @@ def product(a, b):
     return recurse(a, b)
 
 if __name__ == "__main__":
-    max = 10
+    max = 1000
     valid = True
 
     for a, b in permutations(range(max), 2):
