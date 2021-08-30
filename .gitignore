@@ -2,9 +2,8 @@
 Debug
 Release
 x64
+.vs
 # visual studio files
-.vs 
 *.sln
-*.vcxproj*
 # python folders
 __pycache__
