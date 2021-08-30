@@ -1,4 +1,4 @@
-from itertools import permutations
+from itertools import combinations
 
 def recurse(a, b):
     if a == 1: return b
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     max = 1000
     valid = True
 
-    for a, b in permutations(range(max), 2):
+    for a, b in combinations(range(max), 2):
         c1 = a * b
         c2 = product(a, b)
         
