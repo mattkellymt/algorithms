@@ -20,6 +20,7 @@ if __name__ == "__main__":
         for b in range(max):
             c1 = a * b
             c2 = product(a, b)
+            
             if c1 != c2:
                 valid = False
 
