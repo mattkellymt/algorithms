@@ -8,7 +8,7 @@ int main()
     
     for (unsigned a = 0; a < max; ++a)
     {
-        for (unsigned b = 0; b < max; ++b)
+        for (unsigned b = a; b < max; ++b)
         {
             unsigned c1 = a * b;
             unsigned c2 = product(a, b);
