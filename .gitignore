@@ -3,12 +3,16 @@ Debug
 Release
 x64
 .vs
+
 # visual studio files
 *.sln
 *.vcxproj*
+
 # python folders
 __pycache__
+
 # compiled c++
 main
+
 # makefiles
 makefile
