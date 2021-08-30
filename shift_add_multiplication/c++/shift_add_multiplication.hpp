@@ -1,3 +1,5 @@
+#include <algorithm>
+
 unsigned recurse(unsigned a, unsigned b)
 {
     if (a == 1) { return b; }
