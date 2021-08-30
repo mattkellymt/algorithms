@@ -1,1 +1,1 @@
-Multiply using only the add and shift operators. 
+Multiply with only the add and shift operators. 
