@@ -7,6 +7,7 @@ x64
 # visual studio files
 *.sln
 *.vcxproj*
+*.njsproj
 
 # python folders
 __pycache__
@@ -16,3 +17,7 @@ main
 
 # makefiles
 makefile
+
+# javascript folders
+bin
+obj
