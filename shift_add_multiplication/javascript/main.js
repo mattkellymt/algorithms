@@ -1,8 +1,8 @@
 import { product } from "./shift_add_multiplication.js";
 
 
-var max = 1000;
-var valid = true;
+let max = 1000;
+let valid = true;
 
 for (let a = 0; a < max; ++a) {
     for (let b = a; b < max; ++b) {
