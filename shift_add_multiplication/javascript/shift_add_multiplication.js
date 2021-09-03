@@ -1,6 +1,6 @@
 function recurse(a, b) {
     if (a == 1) { return b; }
-    var result = recurse(a >> 1, b << 1);
+    let result = recurse(a >> 1, b << 1);
     result += (a & 1) ? b : 0;
     return result;
 }
