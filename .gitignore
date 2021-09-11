@@ -12,10 +12,8 @@ x64
 # python folders
 __pycache__
 
-# compiled c++
+# c++ files
 main
-
-# makefiles
 makefile
 
 # javascript folders
